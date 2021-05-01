@@ -1,0 +1,2 @@
+# Discordpy Project Template
+A simple project template for creating [discord](https://www.discord.com) bots with [discord.py](https://discordpy.readthedocs.io/en/stable/) and [python](https://www.python.org/).

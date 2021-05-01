@@ -1,0 +1,4 @@
+.idea/
+venv/
+envs/.env.dev
+envs/.env.prod
